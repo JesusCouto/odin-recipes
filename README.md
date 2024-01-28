@@ -1,3 +1,3 @@
 # odin-recipes
 
-Assignment HTML exercise site from The Odin Project.
+Assignment HTML site exercise from The Odin Project.
